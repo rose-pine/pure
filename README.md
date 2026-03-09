@@ -11,6 +11,9 @@
     </a>
 </p>
 
+> [!IMPORTANT]
+> This theme has been merged into our [fish theme repository](https://github.com/rose-pine/fish).
+
 ## About
 
 The [Pure](https://github.com/sindresorhus/pure) prompt is available for many shells. This repo currently contains a theme for the [fish port of Pure](https://github.com/pure-fish/pure).
